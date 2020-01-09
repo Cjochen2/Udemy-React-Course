@@ -1,8 +1,8 @@
 # Udemy-React-Course
 This repo is designated to a React course that I have worked through detailing the different lessons and concepts covered.
 
-Course Description:
-    What you’ll learn
+##Course Description:
+    What you’ll learn<br>
           The Most Modern Version of React and Redux
           Modern Authentication and Routing Patterns
           The Knowledge and Skills to Apply to Front End Jobs
