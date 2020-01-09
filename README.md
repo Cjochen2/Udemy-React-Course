@@ -2,17 +2,20 @@
 This repo is designated to a React course that I have worked through detailing the different lessons and concepts covered.
 
 ## Course Description:
-    What you’ll learn<br><br>
+    What you’ll learn<br>
+    <br>
           The Most Modern Version of React and Redux<br>
           Modern Authentication and Routing Patterns<br>
           The Knowledge and Skills to Apply to Front End Jobs<br>
           How React Works Under the Hood<br>
           The Knowledge to know how different Front End Technologies work together (enough knowledge to impress other engineers)<br>
           Modern ES5, ES6, ES7 Javascript Syntax.<br>
-    Are there any course requirements or prerequisites?<br><br>
+    Are there any course requirements or prerequisites?<br>
+    <br>
           Basic HTML, CSS and Javascrript is helpful but not required<br>
           NO prior React or any other framework experience required.<br>
-    Who this course is for:<br><br>
+    Who this course is for:<br>
+    <br>
           Those who want Job Ready React Front End Skills and Knowledge<br>
           People Looking to upgrade their careers<br>
           People wanting to break into web dev<br>
